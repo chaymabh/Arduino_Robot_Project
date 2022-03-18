@@ -7,12 +7,12 @@ Automatic mobile robot movement , can be used to test the robot's motors.
 
 # Line_tracking_car.ino :
 
-Simple line follower code with 4 motors *
+Simple line follower code with 4 motors .
 
-# bluetooth_car.ino
+# bluetooth_car.ino :
 
 A bleuetooth controled robot code
 
-# obstacle.ino
+# obstacle.ino :
 
 Obstacle detection code 
