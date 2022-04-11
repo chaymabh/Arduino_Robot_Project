@@ -1,5 +1,3 @@
-# Obstacle.ino : 
-This code connects a wifi arduino board ( ESP8266 ) to a Firebase database and can write and read from thedatabase multiple varibales , you can also connect the ESP8266 to an arduino and use it to control a robot remotely .
 
 # AUTO_GO.ino : 
 
@@ -9,10 +7,11 @@ Automatic mobile robot movement , can be used to test the robot's motors.
 
 Simple line follower code with 4 motors .
 
-# bluetooth_car.ino :
+# Bluetooth_car.ino :
 
-A bleuetooth controled robot code
+A bluetooth controled robot code can be used with any bluetooth remote controle app. 
 
-# obstacle.ino :
+# Obstacle.ino :
 
-Obstacle detection code 
+Obstacle detection code , a buzzer will be activated when an obstacle is detected . 
+
