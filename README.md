@@ -17,4 +17,5 @@ Obstacle detection code , a buzzer will be activated when an obstacle is detecte
 
 # Wire connection :
 
-![Alt text]https://github.com/chaymabh/Arduino_Mobile_robot/blob/main/wire%20connect.png?raw=true)
+Follow the wire_connection.png to connect the entire robot components.
+
